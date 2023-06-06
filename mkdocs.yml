@@ -44,7 +44,7 @@ nav:
   - 3Dprinter: 
     - Ender-5: 3Dprinter b7b7c56f5ec445239873fb410e9b707d/Ender-5 de1d31dcd5ab4fe28bc909eba8941c88.md
     - FLSUN_QQ:
-      - FLSUN_QQ 부품만들기: 3Dprinter b7b7c56f5ec445239873fb410e9b707d/FLSUN QQ 656d971df2f24c9aaee1808af62a20a9/FLSUN QQ 부품만들기 358bf7666112439e8ca133009fa481a4.md
+      - FLSUN_QQ parts 주소 모음: 3Dprinter b7b7c56f5ec445239873fb410e9b707d/FLSUN QQ 656d971df2f24c9aaee1808af62a20a9/FLSUN QQ 부품만들기 358bf7666112439e8ca133009fa481a4.md
   - about: about.md
 markdown_extensions:
   - pymdownx.highlight:
