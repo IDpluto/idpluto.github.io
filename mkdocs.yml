@@ -34,9 +34,8 @@ extra:
 nav:
   - 홈: index.md
   - 작은공부방:
-    - Linux:
-      - Github: 작은 공부방 0e656cdfbf774ff78726a421c4a23fc2/Linux 44949079704b40cf8d509aabc9363583/Github 32f237a07d334de58165f4f00b2f027c.md
-      - Mysql: 작은 공부방 0e656cdfbf774ff78726a421c4a23fc2/Linux 44949079704b40cf8d509aabc9363583/Mysql 3459f0d3ef88480c8c49d5c620cacec9.md
+    - Github: 작은 공부방 0e656cdfbf774ff78726a421c4a23fc2/Github 32f237a07d334de58165f4f00b2f027c.md
+    - Mysql: 작은 공부방 0e656cdfbf774ff78726a421c4a23fc2/Mysql 3459f0d3ef88480c8c49d5c620cacec9.md
   - 잡다한프로젝트:
     - 드론모터 제어: 잡다한프로젝트 4ccf09af04ac4ada9c591fd2a49c8a7f/드론모터 제어 06cc7e65c813401bbc81f4ec1a5cdc1c.md
     - 스텝모터 제어: 잡다한프로젝트 4ccf09af04ac4ada9c591fd2a49c8a7f/스텝모터 제어 8ec65a339c2c422b9bda44d9c4fe388b.md
