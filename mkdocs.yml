@@ -2,8 +2,6 @@ site_name: IDpluto
 theme:
   name: material
   primary: light blue
-  language: kr
-  
   features:
     - navigation.tabs
     - navigation.sections
