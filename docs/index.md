@@ -3,9 +3,9 @@ layout: default
 title: 홈
 ---
 
-# Migaehan Blog
+# Creator's Thinking Blog
 
-이곳은 저의 개인 웹사이트로, 제 프로젝트, 취미, 경력 등에 대한 정보를 공유하는 공간입니다.
+이곳은 저의 개인 웹사이트로, 제 프로젝트, 취미, 경력 등에 대한 정보를 공유하는 Blog입니다.
 
 ## 주요 섹션
 
